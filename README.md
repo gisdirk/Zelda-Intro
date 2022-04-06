@@ -1,4 +1,6 @@
-modified after https://github.com/Zyntox/zelda-a-link-to-the-past-intro
+<a href="gisdirk.github.io/zelda-intro/">DEMO</a>
+
+modified after github.com/Zyntox/zelda-a-link-to-the-past-intro
 
 - modified ThreeJS objects
 - replaced CSS keyframe and ThreeJS animations with GSAP 
