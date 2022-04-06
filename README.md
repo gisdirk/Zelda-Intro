@@ -1,4 +1,4 @@
-<a href="https://github.com/gisdirk/Zelda-Intro">DEMO</a>
+<a href="https://gisdirk.github.io/Zelda-Intro/">DEMO</a>
 
 modified after github.com/Zyntox/zelda-a-link-to-the-past-intro
 
