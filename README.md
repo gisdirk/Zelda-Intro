@@ -1,4 +1,4 @@
-<a href="gisdirk.github.io/zelda-intro/">DEMO</a>
+<a href="https://gisdirk.github.io/zelda-intro/">DEMO</a>
 
 modified after github.com/Zyntox/zelda-a-link-to-the-past-intro
 
